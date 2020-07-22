@@ -1,5 +1,5 @@
 ---
-package: github.com/jordicenzano/go-ts-segmenter
+package: github.com/scroot/go-ts-segmenter
 import:
   - package: github.com/sirupsen/logrus
     version: master

@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"path"
 
-	"github.com/jordicenzano/go-ts-segmenter/manifestgenerator/hls"
-	"github.com/jordicenzano/go-ts-segmenter/manifestgenerator/mediachunk"
-	"github.com/jordicenzano/go-ts-segmenter/manifestgenerator/tspacket"
+	"github.com/scroot/go-ts-segmenter/manifestgenerator/hls"
+	"github.com/scroot/go-ts-segmenter/manifestgenerator/mediachunk"
+	"github.com/scroot/go-ts-segmenter/manifestgenerator/tspacket"
 	"github.com/sirupsen/logrus"
 )
 
